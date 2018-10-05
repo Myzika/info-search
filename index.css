@@ -1,0 +1,32 @@
+#header {
+    font-family: Arial;
+    text-align: center;
+}
+
+.header {
+    font-family: "Open Sans";
+    text-decoration: underline;
+}
+
+.links:link {
+    font-family: "Open Sans";
+    text-decoration: none;
+    color: black;
+}
+
+.links:visited {
+    font-family: "Open Sans";
+    text-decoration: none;
+    color: black;
+}
+
+.links:hover {
+    font-family: "Open Sans";
+    color: grey;
+}
+
+.links:active {
+    font-family: "Open Sans";
+    text-decoration: none;
+    color: lightgrey;
+}
